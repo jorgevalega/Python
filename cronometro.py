@@ -3,7 +3,7 @@ import customtkinter as ctk
 
 # Crear la ventana principal
 ventana = ctk.CTk()
-ventana.geometry("300x200")
+ventana.geometry("600x200")
 ventana.title("Cronómetro")
 
 # Crear una etiqueta para mostrar el tiempo
